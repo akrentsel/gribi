@@ -59,8 +59,7 @@ programming entity.
     coming from such a protocol.
 *   Has a normalised interface across vendors, such that similarly to
     OpenConfig, gNMI and gNOI, translation to vendor-specific data models is
-    performed on the device occurs on the device, where it can be done most
-    effectively.
+    performed on the device, where it can be done most effectively.
 *   Is considered fundamentally as part of the control-plane of the device, not
     the management plane; such that entries are created as as though they are
     learnt via a dynamic routing protocol, not treated as ephemeral configuration
