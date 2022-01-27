@@ -11,7 +11,7 @@ been taken for this:
 
 *   Directly programming forwarding plane entries through OpenFlow, or P4 (in
     the
-    [P4runtime](https://github.com/p4lang/PI/blob/master/proto/p4/p4runtime.proto)
+    [P4runtime](https://github.com/p4lang/p4runtime/blob/main/proto/p4/v1/p4runtime.proto)
     service).
 *   Interacting with existing routing protocols to inject entries, e.g., use of
     BGP-LU for egress peer mapping, use of [BGP SR-TE Policy
